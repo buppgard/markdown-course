@@ -5,3 +5,9 @@
 
 
 ![this is a picture of a Cub](https://img.aeroexpo.online/images_ar/photo-g/175785-10902695.jpg)
+
+```c++
+for(unsigned int i = 0; i < images.size(); i++) {
+  std::cout >> images.at(i);
+}
+```
