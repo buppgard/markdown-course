@@ -11,3 +11,7 @@ for(unsigned int i = 0; i < images.size(); i++) {
   std::cout >> images.at(i);
 }
 ```
+
+- [X] Get two slices of bread.
+- [ ] Get peanut butter and jelly.
+- [ ] Make sandwich.
